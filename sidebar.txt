@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xau:home|Door43 (xau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xau|d43-xau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xau/archive/master.zip|d43-xau.zip]]
+
+**Recent Changes**
+{{changes>ns = xau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xau|Ethnologue data]]
+
